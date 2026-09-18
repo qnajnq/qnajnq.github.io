@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://qnajnq.github.io/sitemap.xml

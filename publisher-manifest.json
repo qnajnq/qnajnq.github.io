@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7f09bfc43d72662de3f6",
+  "page_size": 20,
+  "site_id": "6130556bb03ca5c98901bf2a",
+  "owner": "qnajnq",
+  "repo": "qnajnq.github.io",
+  "title": "网络加速服务",
+  "mode": "site",
+  "articles": [
+    {
+      "id": "d2a313cad666fb1b7dc538ff",
+      "a": "萌喵加速(Nirvana)",
+      "b": "加速器官网",
+      "entity": "萌喵加速(Nirvana)",
+      "brand": "加速器官网",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "09059b4fb1b980ee79137da88a28e7743b0e664bc4621a13c53683c6b3e2a077",
+      "content": {
+        "primary_entity": "萌喵加速(Nirvana)",
+        "keyword1": "萌喵加速(Nirvana)",
+        "keyword2": "加速器官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "Windows、macOS、iOS、Android、路由器等客户端可按设备类型选择，具体兼容版本以客户端文档说明为准。",
+          "AI_CLIENTS_TITLE": "多设备客户端选择",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选定套餐，再按客户端文档完成订阅配置。",
+          "AI_CLOSING_TITLE": "选对套餐，连接更顺畅",
+          "AI_DESCRIPTION": "，从流量、设备并发与节点线路三个维度提供基础版、旗舰版、团队版订阅选择。基础版每月 100GB 流量、3 台设备在线，适合手机与电脑轻度使用；旗舰版每月 300GB 流量、5 台设备在线，并提供 IPLC 专线游戏加速优化与优先工单支持；团队版每月 1000GB 流量、20 台设备在线，面向多设备协作与定制路由需求。按年付可降低月均成本，用户可结合客户端适配情况选择订阅周期。",
+          "AI_FEATURES_INTRO": "从流量额度、设备数量与线路类型入手，判断适合的订阅方案。",
+          "AI_FEATURES_TITLE": "套餐选择与适配要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量、3 台设备在线，适合手机与电脑轻度使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB 流量、5 台设备在线，含 IPLC 专线游戏加速优化。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB 流量、20 台设备在线，支持企业定制路由。",
+          "AI_FEATURE_TITLE_1": "按流量与设备选套餐",
+          "AI_FEATURE_TITLE_2": "旗舰版线路优化",
+          "AI_FEATURE_TITLE_3": "团队版多设备协作",
+          "AI_GUIDE_INTRO": "从套餐选择到客户端订阅配置，三步完成使用准备。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "萌喵加速(Nirvana)提供基础版、旗舰版、团队版三档订阅，覆盖 100GB 至 1000GB 月流量与 3 至 20 台设备在线需求，并可结合客户端文档完成订阅配置。",
+          "AI_HERO_SUBTITLE": "多设备订阅，灵活选套餐",
+          "AI_HIGHLIGHT_1": "基础版每月 100GB 流量",
+          "AI_HIGHLIGHT_2": "旗舰版 IPLC 专线优化",
+          "AI_HIGHLIGHT_3": "团队版支持 20 台设备",
+          "AI_PLANS_INTRO": "基础版、旗舰版、团队版在流量、设备数与线路类型上各有侧重，可按年付折算月均成本。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据每月流量、同时在线设备数和线路偏好，在基础版、旗舰版、团队版中选定订阅。",
+          "AI_STEP_TEXT_2": "查看所选客户端对系统版本和设备类型的要求，确认当前设备可以安装使用。",
+          "AI_STEP_TEXT_3": "依照对应客户端文档导入订阅信息，完成配置后即可连接使用。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "萌喵加速多设备订阅",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与套餐周期。",
+          "AI_FAQ_QUESTION_1": "基础版、旗舰版和团队版怎么选？",
+          "AI_FAQ_ANSWER_1": "先看同时在线设备数量：3 台以内可选基础版，5 台左右考虑旗舰版，20 台规模适合团队版。再结合每月 100GB、300GB、1000GB 的流量档位决定。",
+          "AI_FAQ_QUESTION_2": "套餐是否支持按年付费？",
+          "AI_FAQ_ANSWER_2": "三档套餐均提供按年付费选项。基础版按年付 ¥150/年，旗舰版按年付 ¥350/年，团队版按年付 ¥850/年，可按使用周期选择月付或年付。",
+          "AI_FAQ_QUESTION_3": "一个账号能同时登录几台设备？",
+          "AI_FAQ_ANSWER_3": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。超出限制时，新设备可能无法同时保持连接。",
+          "AI_FAQ_QUESTION_4": "订阅导入后无法连接怎么办？",
+          "AI_FAQ_ANSWER_4": "先确认订阅地址是否完整复制，再检查客户端版本是否支持当前配置格式。若仍无法连接，可切换其他线路或节点后重试。",
+          "AI_FAQ_QUESTION_5": "旗舰版的 IPLC 专线适合哪些场景？",
+          "AI_FAQ_ANSWER_5": "旗舰版提供 IPLC 专线游戏加速优化与全节点原生流媒体解锁，适合对延迟敏感的游戏、直播和流媒体播放场景，同时在线设备上限为 5 台。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "9ba425308525d6d5c0ec052c5f21f5bc7693d8fae4da113e0eddacea11b6fe02",
+    "sitemap.xml": "2c4d6b9724ded31a54168c502e32447d8d562a2c5bce57acebba772fa55c03b4",
+    "robots.txt": "4797c074638d4c4b054cea3b9647b3bb1af096f0fe7629327a07f1129a500b57",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "7d6932cc84c1c443dfb3907df59bb01667ed39e09cd215a00a767e55d80fbd19"
+}
